@@ -1,0 +1,10 @@
+.display{
+    display: grid;
+}
+.rectangle{
+    height: 10cm;
+    width: 20cm;
+    background-color: black;
+    align-self: center;
+    justify-self: center;
+}

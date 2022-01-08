@@ -1,0 +1,9 @@
+.rectangle{
+    height: 10cm;
+    width: 20cm;
+    background-color: black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+}
